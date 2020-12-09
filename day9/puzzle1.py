@@ -1,9 +1,6 @@
 with open("day9/input.txt", "r") as f:
     data = [int(line.strip()) for line in f.readlines()]
 
-
-preamble = 5
-range_ = 25
 def subsetsum(nums, target):
     for i in range(len(nums)):
         for j in range(i+1, len(nums)):
