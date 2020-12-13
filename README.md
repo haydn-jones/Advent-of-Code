@@ -18,3 +18,4 @@ I wasn't able to start doing them until day 6 because I was busy with finals, so
 | [10](day10)                     | 12:38:22       | 520         | 21869       | 
 | [11](day11)                     | 01:30:10       | 1384        | 4527        | 
 | [12](day12)                     | 00:46:31       | 2433        | 2967        | 
+| [13](day13)                     | 15:40:37       | 227         | 17575       | 
