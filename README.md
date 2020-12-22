@@ -27,3 +27,4 @@ I wasn't able to start doing them until day 6 because I was busy with finals, so
 | [19](day19)                     | >24h           | 15945       | 12791       | 
 | [20](day20)                     | >24h           | 1804        | 8835        | 
 | [21](day21)                     | >24h           | 11908       | 12100       | 
+| [22](day22)                     | 14:01:04       | 4934        | 10249       | 
