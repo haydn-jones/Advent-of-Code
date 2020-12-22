@@ -31,7 +31,6 @@ while len(found) > 0:
         if len(ings) == 1:
             true[alg] = ings[0]
             break
-    else:
 
     del found[alg]
 
