@@ -1,0 +1,1 @@
+# No puzzle! AoC2020 was great
