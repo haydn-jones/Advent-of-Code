@@ -1,6 +1,9 @@
 # AoC 2020
 My solutions for the [Advent of Code 2020](https://adventofcode.com/2020/) problems. For the most part I'll be using python, though I may switch to Julia for some of them.
 
+# Update May 8, 2021
+I've found an interest in Wolfram Mathematica so I'll be going back through and solving the puzzles with that! Check out the notebooks in each days folder.
+
 ## Rankings
 I wasn't able to start doing them until day 6 because I was busy with finals, so my rankings for days 1-5 are pretty bad.
 
