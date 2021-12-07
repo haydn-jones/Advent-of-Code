@@ -12,3 +12,4 @@ My solutions for the [Advent of Code 2021](https://adventofcode.com/2021/) probl
 | [4](day04)                      | 01:06:45       | 493                | 4952               | 
 | [5](day05)                      | 00:36:29       | 307                | 2735               | 
 | [6](day06)                      | 00:07:00       | 1560               | 7503               | 
+| [7](day07)                      | 00:07:15       | 1362               | 878                | 
