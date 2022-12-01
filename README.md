@@ -6,4 +6,4 @@ My solutions for the [Advent of Code 2022](https://adventofcode.com/2022/) probl
 ## Rankings
 | Day | Total Time | Part 1 Global Rank | Part 2 Global Rank |
 | --- | ---------- | ------------------ | ------------------ |
-|     |            |                    |                    |
+| 01  | 10:19:27   | 72115              | 68031              |
